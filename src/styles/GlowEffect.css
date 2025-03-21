@@ -1,0 +1,9 @@
+/* GlowEffect styles */
+.glow-effect {
+	position: relative;
+}
+
+/* GlowEffect styles - minimized version for JS-based animation */
+.glow-effect-js {
+	position: relative;
+}
